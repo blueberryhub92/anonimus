@@ -1,3 +1,3 @@
-This is a project in which I try to implement a Blog using Django
+This is a Blog using Django as Backend
 
 ![alt text](example.png)
